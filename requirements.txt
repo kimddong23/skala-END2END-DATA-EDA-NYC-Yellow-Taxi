@@ -1,0 +1,13 @@
+pandas
+polars
+pyarrow
+numpy
+scikit-learn
+scipy
+seaborn
+matplotlib
+plotly
+kaleido
+joblib
+pytest
+ruff
